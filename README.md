@@ -1,7 +1,15 @@
 # PRAT
-My Goal
-Design and build a fully autonomous, desk-side robotic assistant that uses computer vision, ML, and voice commands to interact with objects — aimed at aiding users with disabilities.
+Project Summary:
+A low-cost robotic assistant arm designed to help people perform small physical tasks by controlling it with their voice (pressing buttons, flipping switches, moving objects, grabbing objects). Built with Arduino, Python, ML, SpeechRecognition and Computer Vision
 
+Tech Stack: Arduino/Pico, Python (GUI + voice), servos, sensors.
+
+
+Features:
+- multi-joint robotic arm
+- voice-controlled routines
+
+  
 Expected Outcome: 
 
 "Hey bot, grab the pencil."

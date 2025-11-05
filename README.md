@@ -5,38 +5,38 @@ A low-cost robotic assistant arm designed to help people perform small physical 
 
 ## Microcontroller (Arduino Side)
 
-Software: Arduino IDE
+**Software:** Arduino IDE
 
-Libraries Installed:
+**Libraries Installed:**
 
-ArduinoJson — for handling JSON data exchange
+- ArduinoJson — for handling JSON data exchange
 
-SSD1306Ascii — for displaying text on OLED screens
+- SSD1306Ascii — for displaying text on OLED screens
 
-IRremote — for infrared signal control
+- IRremote — for infrared signal control
 
 ## Computer / Python Side (Windows)
 
-Language: Python
+**Language:** Python
 
-Packages Installed:
+**Packages Installed:**
 
-pyserial — for serial communication between the computer and Arduino
+- pyserial — for serial communication between the computer and Arduino
 
-speechrecognition — for voice command processing
+- speechrecognition — for voice command processing
 
-opencv-python — for computer vision and object detection
+- opencv-python — for computer vision and object detection
 
-pyaudio — for accessing the microphone input
+- pyaudio — for accessing the microphone input
 
 These packages enable speech-controlled operation and visual object detection for the robot arm.
 
-Features:
+**Features:**
 - multi-joint robotic arm
 - voice-controlled routines
 
   
-Expected Outcome: 
+**Expected Outcome: **
 
 "Hey bot, grab the pencil."
 

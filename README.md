@@ -35,10 +35,19 @@ These packages enable speech-controlled operation and visual object detection fo
 - multi-joint robotic arm
 - voice-controlled routines
 
-  
+ 
 **Expected Outcome: **
 
 "Hey bot, grab the pencil."
 
 Robot sees the object, plans the motion, picks it up, and hands it over
+
+**Current Progress:**
+(11/5/2025)
+Doing more research on how to implement voice control with SpeechRecognition and pyAudio. I am also looking into YOLOv5 and YOLOv8, cv object detection with with openCV, and reading a bunch of documentation. 
+
+**Past:**
+(10/29/2025)
+Building the Adeept Robot Arm 
+
 

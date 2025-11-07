@@ -1,6 +1,6 @@
 # PRAT
 Project Summary:
-A low-cost robotic assistant arm designed to help people perform small physical tasks by controlling it with their voice (pressing buttons, flipping switches, moving objects, grabbing objects). Built with Arduino, Python, ML, SpeechRecognition and Computer Vision
+A low-cost robotic assistant arm designed to help people perform small physical tasks by controlling it with their voice (pressing buttons, flipping switches, moving objects, grabbing objects). Built with Arduino, Python, ML, Speech Recognition and Computer Vision
 
 
 ## Microcontroller (Arduino Side)
